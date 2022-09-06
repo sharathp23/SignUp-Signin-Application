@@ -1,4 +1,5 @@
 main.java
+
 package com.example.signup;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -54,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 }
 
 loginjava
+
 package com.example.signup;
 import androidx.appcompat.app.AppCompatActivity;
 
